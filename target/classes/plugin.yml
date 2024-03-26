@@ -1,0 +1,6 @@
+name: NullBlocks
+version: '1.1.0'
+main: as.nullblocks.NullBlocks
+api-version: '1.20'
+softdepend:
+  - WorldGuard
